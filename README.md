@@ -4,7 +4,7 @@ Código criado em Python usando bibliotecas poderosas pandas e requests para bus
 
 Webscraping com Python usando API
 
-Linguagem utilizada: Python com as bibliotecas pandas e request.
+Linguagem utilizada: Python 
 
 
 
