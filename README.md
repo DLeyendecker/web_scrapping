@@ -1,10 +1,6 @@
-Web Scraping é uma coleta de dados da web, de sites, onde usamos scripts e programas para coletar ou raspar as informações destes sites e que poderão ser usadas para futuras análises.
+Este projeto consiste na criação de um sistema de web scraping em Python, utilizando bibliotecas poderosas como pandas e requests, para coletar indicadores financeiros de sites da web. O objetivo é obter informações relevantes para análises futuras, como a criação de modelos preditivos e estudos de mercado.
 
-Código criado em Python usando bibliotecas poderosas pandas e requests para buscar indicadores financeiros coletando as informação da web e buscando as tabelas no arquivos html.
+O código desenvolvido permite buscar as informações em tabelas presentes em arquivos HTML, de forma eficiente e automatizada, utilizando a técnica de web scraping. Além disso, também é possível utilizar APIs para coletar os dados de forma estruturada e organizada.
 
-Webscraping com Python usando API
-
-Linguagem utilizada: Python 
-
-
+A linguagem utilizada no projeto é Python.
 
