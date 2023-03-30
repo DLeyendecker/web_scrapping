@@ -3,4 +3,3 @@ Este projeto consiste na criação de um sistema de web scraping em Python, util
 O código desenvolvido permite buscar as informações em tabelas presentes em arquivos HTML, de forma eficiente e automatizada, utilizando a técnica de web scraping. Além disso, também é possível utilizar APIs para coletar os dados de forma estruturada e organizada.
 
 A linguagem utilizada no projeto é Python.
-
